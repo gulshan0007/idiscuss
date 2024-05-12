@@ -1,0 +1,12 @@
+.foot{ 
+    position: fixed;
+    background-color: rgb(28, 26, 26);
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 0%;
+}
+#ques{
+    min-height: 433px;
+   
+}
